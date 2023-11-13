@@ -8,13 +8,13 @@ Create an artificial intelligence that searching in which table in the given pdf
 **the hole table with desired information in it**
 #### Example:
 The given pdf file:  
-![image](https://github.com/Stage-A/Document-Intelligence/blob/main/example1.png)
+![image](https://github.com/Stage-A/Document-Intelligence/blob/main/images/example1.png)
 Keyword of searching:  
 ```commandline
 非監督是學習的學習目標
 ```
 Output: 
-![image](https://github.com/Stage-A/Document-Intelligence/blob/main/example2.png)
+![image](https://github.com/Stage-A/Document-Intelligence/blob/main/images/example2.png)
 
 ## How to contribute
 * pull the requests on your own branch, do not edit the main branch
